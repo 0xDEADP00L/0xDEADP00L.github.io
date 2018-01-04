@@ -2,7 +2,7 @@
     "title": "Billion Book",
     "subtitle": "A collection of Billion sketches",
     "publisherName": "Evolution Group Ltd.",
-    "feedIdentifier": "com.evogroup.billion-book",
+    "feedIdentifier": "com.evogroup.billion-books",
     "contactURL": "https://0xDEADP00L.github.io/",
     "formatVersion": "1.0",
     "documents": [
@@ -11,7 +11,7 @@
             "overviewSubtitle": "Base billion sketchbook.",
             "detailSubtitle": "",
             "description": "This book contains base billion sketches used to create Billion",
-            "contentIdentifier": "com.evogroup.billion-book",
+            "contentIdentifier": "com.evogroup.billion-books.book1",
             "contentVersion": "1.0",
             "url": "BillionBook.playgroundbook.zip",
             "publishedDate": "2018-01-04T20:55:45+03:00",
