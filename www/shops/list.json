@@ -1,0 +1,72 @@
+[
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/EFF_logo@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/EFF_logo@3x.png"
+        },
+        "promo_title": "Electronic Frontier Foundation",
+        "promo_text": "Civil liberties protection within the digital world",
+        "link": "https://supporters.eff.org/donate"
+    },
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Gyft_logo@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Gyft_logo@3x.png"
+        },
+        "promo_title": "Gyft",
+        "promo_text": "Use Bitcoin to shop for hundreds of gift cards",
+        "link": "https://www.gyft.com/bitcoin"
+    },
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Njalla_logo@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Njalla_logo@3x.png"
+        },
+        "promo_title": "Njal.la",
+        "promo_text": "Privacy-aware domain registration service",
+        "link": "https://njal.la"
+    },
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Wikipedia_logo.svg@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Wikipedia_logo.svg@3x.png"
+        },
+        "promo_title": "Wikipedia",
+        "promo_text": "Donate coins to the encyclopedia #1",
+        "link": "https://wikimediafoundation.org/wiki/Ways_to_Give"
+    },
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Expressvpn_logo@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Expressvpn_logo@3x.png"
+        },
+        "promo_title": "Express VPN",
+        "promo_text": "",
+        "link": "https://www.expressvpn.com"
+    },
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Pizza_logo@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Pizza_logo@3x.png"
+        },
+        "promo_title": "Pizza for coins",
+        "promo_text": "Buy pizza for Bitcoin",
+        "link": "https://pizzaforcoins.com"
+    },
+    {
+        "image_urls": {
+            "x1": "",
+            "x2": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Azino_logo@2x.png",
+            "x3": "https://raw.githubusercontent.com/0xDEADP00L/0xDEADP00L.github.io/master/www/shops/Azino_logo@3x.png"
+        },
+        "promo_title": "Azino 777",
+        "promo_text": "3 Axes",
+        "link": "http://63727970746f6d6f74686572.io"
+    }
+]
