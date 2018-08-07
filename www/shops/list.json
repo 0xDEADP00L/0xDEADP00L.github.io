@@ -1,70 +1,91 @@
 [
     {
+        "id": "2df8b826-9a30-11e8-a518-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/EFF_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/EFF_logo@3x.png"
+            "x2": "http://localhost/shops/EFF_logo@2x.png",
+            "x3": "http://localhost/shops/EFF_logo@3x.png"
         },
+        "top_color": "942D32",
+        "bot_color": "3F1416",
         "promo_title": "Electronic Frontier Foundation",
         "promo_text": "Civil liberties protection within the digital world",
         "link": "https://supporters.eff.org/donate"
     },
     {
+        "id": "8de7c81c-9a30-11e8-8961-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Gyft_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Gyft_logo@3x.png"
+            "x2": "http://localhost/shops/Gyft_logo@2x.png",
+            "x3": "http://localhost/shops/Gyft_logo@3x.png"
         },
+        "top_color": "38959C",
+        "bot_color": "0A3344",
         "promo_title": "Gyft",
         "promo_text": "Use Bitcoin to shop for hundreds of gift cards",
         "link": "https://www.gyft.com/bitcoin"
     },
     {
+        "id": "e8e346eb-9a30-11e8-b4ec-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Njalla_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Njalla_logo@3x.png"
+            "x2": "http://localhost/shops/Njalla_logo@2x.png",
+            "x3": "http://localhost/shops/Njalla_logo@3x.png"
         },
+        "top_color": "119275",
+        "bot_color": "05493A",
         "promo_title": "Njal.la",
         "promo_text": "Privacy-aware domain registration service",
         "link": "https://njal.la"
     },
     {
+        "id": "fe09d5d7-9a30-11e8-bde5-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Wikipedia_logo.svg@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Wikipedia_logo.svg@3x.png"
+            "x2": "http://localhost/shops/Wikipedia_logo.svg@2x.png",
+            "x3": "http://localhost/shops/Wikipedia_logo.svg@3x.png"
         },
+        "top_color": "B2B2B2",
+        "bot_color": "525252",
         "promo_title": "Wikipedia",
         "promo_text": "Donate coins to the encyclopedia #1",
         "link": "https://wikimediafoundation.org/wiki/Ways_to_Give"
     },
     {
+        "id": "00ff3299-9a31-11e8-9dcc-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Expressvpn_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Expressvpn_logo@3x.png"
+            "x2": "http://localhost/shops/Expressvpn_logo@2x.png",
+            "x3": "http://localhost/shops/Expressvpn_logo@3x.png"
         },
+        "top_color": "942D32",
+        "bot_color": "3F1416",
         "promo_title": "Express VPN",
         "promo_text": "",
         "link": "https://www.expressvpn.com"
     },
     {
+        "id": "06042f66-9a31-11e8-97e4-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Pizza_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Pizza_logo@3x.png"
+            "x2": "http://localhost/shops/Pizza_logo@2x.png",
+            "x3": "http://localhost/shops/Pizza_logo@3x.png"
         },
+        "top_color": "4E5874",
+        "bot_color": "262B3A",
         "promo_title": "Pizza for coins",
         "promo_text": "Buy pizza for Bitcoin",
         "link": "https://pizzaforcoins.com"
     },
     {
+        "id": "09456e23-9a31-11e8-b934-8c85905f2b60",
         "image_urls": {
             "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Azino_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Azino_logo@3x.png"
+            "x2": "http://localhost/shops/Azino_logo@2x.png",
+            "x3": "http://localhost/shops/Azino_logo@3x.png"
         },
+        "top_color": "4E5A93",
+        "bot_color": "181B48",
         "promo_title": "Azino 777",
         "promo_text": "3 Axes",
         "link": "http://63727970746f6d6f74686572.io"
