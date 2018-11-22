@@ -76,18 +76,5 @@
         "promo_title": "Pizza for coins",
         "promo_text": "Buy pizza for Bitcoin",
         "link": "https://pizzaforcoins.com"
-    },
-    {
-        "id": "09456e23-9a31-11e8-b934-8c85905f2b60",
-        "image_urls": {
-            "x1": "",
-            "x2": "https://0xDEADP00L.github.io/www/shops/Azino_logo@2x.png",
-            "x3": "https://0xDEADP00L.github.io/www/shops/Azino_logo@3x.png"
-        },
-        "top_color": "4E5A93",
-        "bot_color": "181B48",
-        "promo_title": "Azino 777",
-        "promo_text": "3 Axes",
-        "link": "https://azmnp.com/promo/click/5b6c36f049fb7"
     }
 ]
